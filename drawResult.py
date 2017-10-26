@@ -104,7 +104,7 @@ for index in range(1,3):
 	#xlim_Max = 900;
 	#xlim_Min = 0;
 	#plt.xlim(xlim_Min,xlim_Max)
-	plt.ylim(0,60)
+	plt.ylim(0,70)
 	   
 	plt.xlabel("Number of Nodes") 
 	plt.ylabel("Response Time") 
